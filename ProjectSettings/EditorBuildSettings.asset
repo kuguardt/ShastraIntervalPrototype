@@ -8,4 +8,37 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/MapScene.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/HangoutScene.unity
+    guid: c136eaac59d2db04b880525ebec8cfbb
+  - enabled: 1
+    path: Assets/Scenes/LectureScene.unity
+    guid: 438482b05fe5a994cb1c4f93facb431c
+  - enabled: 1
+    path: Assets/Scenes/ActivityScene.unity
+    guid: deb48ba14bced184d889f5c61e94ac14
+  - enabled: 1
+    path: Assets/Scenes/Room/ArenaRoom.unity
+    guid: ab7f76db0227b75479bb99bdec28e1f2
+  - enabled: 1
+    path: Assets/Scenes/Room/GameRoom.unity
+    guid: f863289013fdfb747b310f90b5b19d98
+  - enabled: 1
+    path: Assets/Scenes/Room/GymRoom.unity
+    guid: bb5b4db655b41d148a9e0aa9437df521
+  - enabled: 1
+    path: Assets/Scenes/Room/LectureRoom.unity
+    guid: 8a9a1eb060c45fc4a99309c28740defd
+  - enabled: 1
+    path: Assets/Scenes/Room/LibraryRoom.unity
+    guid: fec27dad555cde54da4ce44db501b4be
+  - enabled: 1
+    path: Assets/Scenes/Room/ParkRoom.unity
+    guid: d1cfa56e062317d4fb581aa425bfb327
+  - enabled: 1
+    path: Assets/Scenes/Room/ShopRoom.unity
+    guid: e8bebcd0dcc1966418fd4760350c2bcb
+  - enabled: 1
+    path: Assets/Scenes/RoomScene.unity
+    guid: 281dd979126223241b24f31709a91ac8
   m_configObjects: {}
